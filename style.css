@@ -1,0 +1,40 @@
+body{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#container{
+    color: blue
+}
+.digit{
+    font-size: 150px;
+    font-weight: bold;
+}
+.text{
+    font-size: 40px;
+    font-weight: bold;
+}
+#button-container{
+    text-align: center;
+    margin-top: 40px;
+}
+.btn{
+    padding: 7px 25px;
+    font-size: 15px;
+    margin: 0px 1opx;
+    border: 0px;
+    cursor: pointer;
+}
+#start{
+    background-color: red;
+
+}
+#stop{
+    background-color:olivedrab;
+}
+#reset{
+    background-color: darkturquoise;
+    
+}
